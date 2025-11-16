@@ -5,5 +5,5 @@ and overplots the satellites track on top of the image.
 The code utilises query.py to fetch a recent TLE list, relevant to the detection time.
 (Requires a space-track account)
 
-There are unused unfunctions such as rotate_ra_dec from previous iterations of the program.
+There are unused functions such as rotate_ra_dec from previous iterations of the program.
 Also some redundancy that I havent cleaned up
